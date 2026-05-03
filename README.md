@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/ee72f077-bf65-453e-a2c4-e4c5cb5588de
 ---
 
 ### 📐 Engineering Drafting & GD&T
-*A complete, shop-ready blueprint was generated. This includes the Bill of Materials (BOM), auto-ballooning, multi-view orthogonal layouts, and a 2:1 scaled sheet metal flat pattern for laser cutting. Critical datum surfaces and position tolerances (GD&T) were applied to ensure axle alignment.*
+*A complete, shop-ready blueprint was generated. This includes the Bill of Materials (BOM), auto-ballooning, multi-view orthogonal layouts, and a 1:1 scaled sheet metal flat pattern for laser cutting. Critical datum surfaces and position tolerances (GD&T) were applied to ensure axle alignment.*
 
 <img width="1186" height="842" alt="Drafting_Master_Engineering_Drawing" src="https://github.com/user-attachments/assets/a73dbf42-391d-40ac-a725-26c3afc01ba2" />
 
