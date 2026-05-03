@@ -15,29 +15,30 @@
 ### 🎥 Kinematic Motion & Rendering
 *To validate the mechanical clearances, a kinematic motion study was conducted to ensure the linkage arm and main strut translated properly without binding.*
 
-**
+
 
 https://github.com/user-attachments/assets/ee72f077-bf65-453e-a2c4-e4c5cb5588de
 
-**
 
-**<img width="841" height="595" alt="Render_image" src="https://github.com/user-attachments/assets/8c842d30-fbad-45f6-93b7-1798658b1a34" />**
+
+<img width="841" height="595" alt="Render_image" src="https://github.com/user-attachments/assets/8c842d30-fbad-45f6-93b7-1798658b1a34" />
 
 ---
 
 ### 📐 Engineering Drafting & GD&T
 *A complete, shop-ready blueprint was generated. This includes the Bill of Materials (BOM), auto-ballooning, multi-view orthogonal layouts, and a 2:1 scaled sheet metal flat pattern for laser cutting. Critical datum surfaces and position tolerances (GD&T) were applied to ensure axle alignment.*
 
-**<img width="1186" height="842" alt="Drafting_Master_Engineering_Drawing" src="https://github.com/user-attachments/assets/a73dbf42-391d-40ac-a725-26c3afc01ba2" />
-**
+<img width="1186" height="842" alt="Drafting_Master_Engineering_Drawing" src="https://github.com/user-attachments/assets/a73dbf42-391d-40ac-a725-26c3afc01ba2" />
+
 
 ---
 
 ### 🔍 Structural Validation & Root Cause Analysis
 *To ensure safety during a hard landing scenario, the assembly was subjected to a 500N upward vertical load on the wheel axle in Nastran.*
 
-**<img width="1256" height="830" alt="FEA_Von_Mises_Stress_Results" src="https://github.com/user-attachments/assets/7b9ec96c-cc41-4dec-8b55-79dc3d7829ee" />
-**
+<img width="1256" height="830" alt="FEA_Von_Mises_Stress_Results" src="https://github.com/user-attachments/assets/7b9ec96c-cc41-4dec-8b55-79dc3d7829ee" />
+<img width="1485" height="830" alt="FEA_Displacement_Results" src="https://github.com/user-attachments/assets/9d81e9d8-60f3-4a8a-9524-8e0aee198fc1" />
+
 
 > **Root Cause Analysis (Hard Landing Simulation):** 
 > During the simulated 500N hard landing, the Aluminum 6061 main strut exhibited localized stresses exceeding the material yield limit (276 MPa). The failure mode is localized plastic deformation at the upper pivot hole due to highly concentrated bending moments (the strut acts as a lever arm). 
