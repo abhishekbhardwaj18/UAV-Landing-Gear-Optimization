@@ -17,7 +17,7 @@
 
 
 
-![Kinematic_Motion](https://github.com/user-attachments/assets/8580b6ab-cd87-40c4-be00-655cc6567109)
+[Kinematic_Motion](https://github.com/user-attachments/assets/8580b6ab-cd87-40c4-be00-655cc6567109)
 
 
 
