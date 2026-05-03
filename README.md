@@ -17,7 +17,8 @@
 
 
 
-[Kinematic_Motion](https://github.com/user-attachments/assets/8580b6ab-cd87-40c4-be00-655cc6567109)
+<img width="800" height="439" alt="Kinematic_Motion-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9658a1c7-4c59-4b32-afd1-6dd169ce3543" />
+
 
 
 
